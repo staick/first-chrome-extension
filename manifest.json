@@ -5,8 +5,8 @@
     "manifest_version": 3,
     "author": "Staick",
     "icons": {
-        "48": "icon48.png",
-        "96": "icon96.png"
+        "48": "images/icons/icon48.png",
+        "96": "images/icons/icon96.png"
     },
     "action": {
         "default_popup": "index.html",
